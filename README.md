@@ -1,7 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Youngmin</h1>
+
+## 🌱 Interests
+- **Simultaneous Localization and Mapping (SLAM)**
+  - Visual-SLAM, Visual-inertial odometry, Visual-localization, Semantic SLAM
+- **Computer Vision**
+  - Object pose estimation, Visual tracking, Multiple view geometry
+- **Imaging**
+  - Photography, Surgical imaging, Multi/Hyperspectral imaging
+- **Deep Learning**
+  - Keypoint detection, Image retrieval, Segmentation
+
+## 🔭 Careers
+- Algorithm Engineer - Semantic SLAM at **StradVision** (2021 - **PRESENT**)
+- Research Engineer at VIRNECT (2019 - 2021)
+- Research Intern at the Bohndiek Lab, Cavendish Laboratory, University of Cambridge, UK (2019)
+- Received a M.Res degree in Medical Robotics and Image-Guided Intervention at the Hamlyn Centre, Imperial College London, UK (2017-2018)
+- Received a B.Eng degree in Manufacturing and Mechanical Engineering at the University of Warwick (2014-2017)
+
+## ⚡ Community Activities
+- Admin of a SLAM research community group: [**'Spatial AI KR'**](https://open.kakao.com/o/g8T5kxLb)
+- Personal research blog (Korean): [**cv-learn blog**](https://www.cv-learn.com)
+
+## 📫 Contacts
+- LinkedIn: [Link](https://www.linkedin.com/in/hyunggi-chang/)
+- Facebook: [Link](https://www.facebook.com/harry.chang.982/)
 
 <!--
-**Xion079/Xion079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**changh95/changh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +39,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![changh95's GitHub stats](https://github-readme-stats.vercel.app/api?username=changh95&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changh95&exclude_repo=changh95.github.io,changh95.github.io-legacyblog_source,changh95,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![profile_view_counter](https://komarev.com/ghpvc/?username=changh95)

@@ -11,11 +11,7 @@
   - Keypoint detection, Image retrieval, Segmentation
 
 ## 🔭 Careers
-- Algorithm Engineer - Semantic SLAM at **StradVision** (2021 - **PRESENT**)
-- Research Engineer at VIRNECT (2019 - 2021)
-- Research Intern at the Bohndiek Lab, Cavendish Laboratory, University of Cambridge, UK (2019)
-- Received a M.Res degree in Medical Robotics and Image-Guided Intervention at the Hamlyn Centre, Imperial College London, UK (2017-2018)
-- Received a B.Eng degree in Manufacturing and Mechanical Engineering at the University of Warwick (2014-2017)
+
 
 ## ⚡ Community Activities
 - Admin of a SLAM research community group: [**'Spatial AI KR'**](https://open.kakao.com/o/g8T5kxLb)
@@ -24,13 +20,6 @@
 ## 📫 Contacts
 - LinkedIn: [Link](https://www.linkedin.com/in/hyunggi-chang/)
 - Facebook: [Link](https://www.facebook.com/harry.chang.982/)
-
-
-![changh95's GitHub stats](https://github-readme-stats.vercel.app/api?username=changh95&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xion079&exclude_repo=Xion079.github.io,Xion079.github.io-legacyblog_source,Xion079,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![profile_view_counter](https://komarev.com/ghpvc/?username=Xion079)
 
 
 <!--

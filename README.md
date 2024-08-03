@@ -14,12 +14,12 @@
 
 
 ## ⚡ Community Activities
-- Admin of a SLAM research community group: [**'Spatial AI KR'**](https://open.kakao.com/o/g8T5kxLb)
-- Personal research blog (Korean): [**cv-learn blog**](https://www.cv-learn.com)
+- Admin of a SLAM research community group: [**'Spatial AI KR'**]()
+- Personal research blog (Korean): [**cv-learn blog**]()
 
 ## 📫 Contacts
-- LinkedIn: [Link](https://www.linkedin.com/in/hyunggi-chang/)
-- Facebook: [Link](https://www.facebook.com/harry.chang.982/)
+- LinkedIn: [Link]()
+- Facebook: [Link]()
 
 
 <!--

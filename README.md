@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Youngmin</h1>
 
-## 🌱 Interests
-- **Simultaneous Localization and Mapping (SLAM)**
-  - Visual-SLAM, Visual-inertial odometry, Visual-localization, Semantic SLAM
-- **Computer Vision**
-  - Object pose estimation, Visual tracking, Multiple view geometry
-- **Imaging**
-  - Photography, Surgical imaging, Multi/Hyperspectral imaging
-- **Deep Learning**
-  - Keypoint detection, Image retrieval, Segmentation
+## 🌱 Intro
+- **Game Programmer with Unity**
+  - 안녕하세요, 게임 프로그래머 고영민입니다.
 
-## 🔭 Careers
-
-
-## ⚡ Community Activities
-- Admin of a SLAM research community group: [**'Spatial AI KR'**]()
-- Personal research blog (Korean): [**cv-learn blog**]()
+## 🔭 Edu
+1) Dju Univ. (Computer Engineering),  
+3) eteverslearning. Unity Bootcamp
 
 ## 📫 Contacts
-- Email : [Link]().rhdudals98@gmail.com
+- +82) 010-5030-6506
+- Email : rhdudals98@gmail.com
+- 
+##  Tech Stack
+<img src="https://img.shields.io/badge/Unity-a9a9a9?style=for-the-badge&logo=Unity&logoColor=000000"> <img src="https://img.shields.io/badge/CSharp-fff0f5?style=for-the-badge&logo=CSharp&logoColor=da70d6"> 

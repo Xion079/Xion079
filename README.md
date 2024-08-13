@@ -2,11 +2,11 @@
 
 ## 🌱 Intro
 - **Game Programmer with Unity**
-  - 안녕하세요, 게임 프로그래머 고영민입니다.
+- 안녕하세요, 게임 프로그래머 고영민입니다.
 
 ## 🔭 Edu
-1) Dju Univ. (Computer Engineering),  
-3) eteverslearning. Unity Bootcamp
+- Dju Univ. (Computer Engineering),
+- eteverslearning. Unity Bootcamp
 
 ## 📫 Contacts
 - +82) 010-5030-6506

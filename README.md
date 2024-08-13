@@ -18,6 +18,4 @@
 - Personal research blog (Korean): [**cv-learn blog**]()
 
 ## 📫 Contacts
-- LinkedIn: [Link](rhdudals98@gmail.com)
-- Facebook: [Link]()
-
+- Email : [Link]().rhdudals98@gmail.com
